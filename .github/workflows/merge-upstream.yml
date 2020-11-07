@@ -5,6 +5,7 @@
 # 
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
+# test for upgrade
 
 name: Merge-upstream
 
