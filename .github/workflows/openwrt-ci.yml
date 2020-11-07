@@ -5,6 +5,7 @@
 #
 # Copyright (C) 2020 KFERMercer
 #
+# test for update
 name: OpenWrt-CI
 
 on:
